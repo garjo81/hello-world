@@ -1,2 +1,2 @@
 # hello-world
-Test - first repository created in Hithub!
+Test - first repository created in Github!
